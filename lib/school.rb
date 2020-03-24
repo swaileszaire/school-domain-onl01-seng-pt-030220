@@ -32,6 +32,3 @@ school.add_student("Screech", 11)
 school.add_student("Bart Simpson", 9)
 school.roster
 school.sort   
-
-
-
