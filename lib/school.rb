@@ -26,13 +26,3 @@ class School
 end 
 end
 
-
-school = School.new("Bayside High School")
-school.add_student("AC Slater" , 9)
-school.add_student("Blake Johnson", 7)
-school.add_student("John Bauer", 7)
-school.add_student("Kelly Kapowski", 10)
-school.add_student("Screech", 11) 
-school.add_student("Bart Simpson", 9)
-school.roster
-school.sort   
